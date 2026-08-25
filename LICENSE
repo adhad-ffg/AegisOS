@@ -1,15 +1,20 @@
-Copyright (c) 2026 [adhad-ffg]
+Copyright (c) 2026 adhad-ffg
 All rights reserved.
 
 This software, including all source code, binaries, and associated documentation (the "Software"), is the exclusive property of the author.
 
 The author grants permission strictly for the VIEWING AND REVIEWING of the source code on public platforms (e.g., GitHub). Any other use of the Software is strictly prohibited without the explicit, prior written consent of the author. 
 
-Prohibited actions include, but are not limited to:
+Prohibited actions and terms include, but are not limited to:
+
 1. Copying, modifying, adapting, or creating derivative works of the Software, in whole or in part.
 2. Extracting, borrowing, or porting any algorithms, unique features, or code architectures into other projects.
 3. Redistributing, publishing, selling, or commercially exploiting the Software.
 4. Reverse engineering, decompiling, or disassembling the Software's binaries or source code.
+5. 【THIRD-PARTY APPLICATION DEVELOPMENT (.QAPP)】
+Users and third-party developers are permitted to design, develop, and distribute independent applications using the ".qapp" format for AegisOS. Developing a ".qapp" does not constitute a violation of Section 1 or 2, provided that the application does not include, copy, or redistribute the core source code or binaries of AegisOS itself.
+6. 【CONTRIBUTIONS AND APP ECOSYSTEM】
+By submitting any ".qapp" applications, patches, or suggestions directly to this repository or the author, you grant the author a perpetual, worldwide, non-exclusive, royalty-free license to use, modify, and integrate your contribution into the official AegisOS ecosystem.
 
 DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", FOR SECURITY RESEARCH AND PERSONAL PRIVACY EXPERIMENTATION PURPOSES ONLY. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, DEVICE BRICKING, LEGAL DISPUTES, OR CONFLICTS WITH LAW ENFORCEMENT AGENCIES AND GOVERNMENTS) ARISING OUT OF THE USE, MISUSE, OR INABILITY TO USE THE SOFTWARE.
