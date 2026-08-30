@@ -10,7 +10,7 @@ AegisOS transforms your Google Pixel into an impregnable fortress of digital pri
 - **Total Network Control:** Kernel-level baseband processor shutdown, Stingray (IMSI catcher) detection, and automated cellular tower obfuscation.
 - **Hardware-Level Security:** 5-press Power Button Kill Switch (wipes RAM and encryption keys instantly). Isolated per-app hardware namespaces and system-wide screen capture blocking.
 - **Decoy & Multi-Profiles:** Supports up to 10 isolated encrypted profiles with dummy PIN decoy authentication.
-- **Sandboxed Apps (.qapp):** Executes lightweight apps inside a strictly network-isolated sandbox environment.
+- **Sandboxed Apps (.apk):** Executes apps inside a strictly network-isolated sandbox environment.
 - **Visual Privacy:** 5 unique UI modes (3D Stereoscopic, Crescent, Arc, Split Landscape, and Standard AOSP).
 
 ## ⚠️ Repository Status & License
