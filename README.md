@@ -1,20 +1,21 @@
-# AegisOS
+# AegisOS: Your Pixel, A Sanctuary for Peace of Mind in Privacy
 
-**The ultimate privacy and anonymity operating system custom-built for Google Pixel devices.**
+A next-generation, privacy-focused operating system designed to unlock the full potential of your Google Pixel device while protecting your digital life.
 
-AegisOS transforms your Google Pixel into an impregnable fortress of digital privacy. Engineered from the kernel up with military-grade hardening, it redefines the absolute boundaries of mobile OS security.
+AegisOS is built from the kernel level up—a "fortress of protection" that incorporates military-grade security enhancement technologies, while always prioritizing your comfort and peace of mind above all else.
 
-## 🛡️ Key Features (Conceptual)
+---
 
-- **Default Anonymity:** Force-routes all network traffic through always-on ProtonVPN and optional Tor. Encrypted DNS (DoH/DoT) and continuous randomization of MAC addresses, hostnames, and DHCP fingerprints.
-- **Total Network Control:** Kernel-level baseband processor shutdown, Stingray (IMSI catcher) detection, and automated cellular tower obfuscation.
-- **Hardware-Level Security:** 5-press Power Button Kill Switch (wipes RAM and encryption keys instantly). Isolated per-app hardware namespaces and system-wide screen capture blocking.
-- **Decoy & Multi-Profiles:** Supports up to 10 isolated encrypted profiles with dummy PIN decoy authentication.
-- **Sandboxed Apps (.apk):** Executes apps inside a strictly network-isolated sandbox environment.
-- **Visual Privacy:** 5 unique UI modes (3D Stereoscopic, Crescent, Arc, Split Landscape, and Standard AOSP).
+🛡️ **Key Features (Concept)**
 
-## ⚠️ Repository Status & License
+**Natural Anonymity:** Automatically routes all communications via ProtonVPN or Tor. With encrypted DNS and continuous randomization of MAC addresses and hostnames, your digital footprint fades away naturally.
 
-This project is currently in the initial conceptual/development phase. 
+**Complete Network Control:** Advanced network management capabilities including baseband processor software deactivation, Stingray (IMSI catcher) detection, and automatic concealment of cellular tower location data.
 
-**PROPRIETARY LICENSE:** All rights reserved. The source code presented in this repository is available for **viewing and review purposes only**. Modification, redistribution, reverse engineering, or borrowing any algorithms/code for other projects is strictly prohibited without explicit written permission from the author.
+**Hardware-Level Peace of Mind:** Features a "kill switch" that instantly wipes RAM and encryption keys with just five presses of the power button. Physical security is also comprehensive, with hardware namespaces isolated per application and automatic screenshot blocking.
+
+**Decoy & Multi-Profile Support:** Supports up to 10 separate encrypted profiles. A dummy PIN for emergency situations allows decoy logins, so you can present different personas depending on the situation.
+
+**Sandboxed Applications:** Apps run within strict sandbox environments with networks blocked, preventing impact on other data.
+
+**Visual Privacy:** Five UI modes are provided—"3D Stereoscopic," "Crescent," "Arc," "Split Landscape," and "Standard AOSP"—allowing you to change the screen's appearance according to circumstances, enabling worry-free usage without concern for surrounding gazes.
