@@ -1,4 +1,5 @@
-# AegisOS: Your Pixel, A Sanctuary for Peace of Mind in Privacy
+# AegisOS
+Your Pixel, A Sanctuary for Peace of Mind in Privacy
 
 A next-generation, privacy-focused operating system designed to unlock the full potential of your Google Pixel device while protecting your digital life.
 
